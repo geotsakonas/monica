@@ -7,7 +7,7 @@ use Illuminate\Queue\SerializesModels;
 
 class MoveAvatarEvent extends Event
 {
-    use SerializesModels;
+    use SerialiModels;
 
     /**
      * The contact.
